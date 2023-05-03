@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Version>1.0.0</Version>
+        <Authors>Samuel Lucas</Authors>
+        <Description>A .NET implementation of Rocca-S.</Description>
+        <Copyright>Copyright (c) 2023 Samuel Lucas</Copyright>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageProjectUrl>https://github.com/samuel-lucas6/Rocca-S.NET</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/samuel-lucas6/Rocca-S.NET</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>rocca-s rocca aes aead</PackageTags>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    </PropertyGroup>
+
+</Project>
