@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoccaSDotNet", "RoccaSDotNet\RoccaSDotNet.csproj", "{A4C21CC6-5C45-4649-BE3D-ACC3872F7D09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoccaSDotNetTests", "RoccaSDotNetTests\RoccaSDotNetTests.csproj", "{D8065720-519A-4ACA-B380-ED160169EC16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoccaSDotNet.Tests", "RoccaSDotNet.Tests\RoccaSDotNet.Tests.csproj", "{D8065720-519A-4ACA-B380-ED160169EC16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
